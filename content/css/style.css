@@ -1,0 +1,188 @@
+.box_container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.header_top {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.top_name {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.active_list_group {
+    background: #F2F2F2;
+    font-weight: 500;
+}
+
+
+
+.top_ten_item {
+    padding: 4px 10px;
+    text-decoration: none;
+    gap: 10px;
+    display: flex;
+}
+
+.top_ten_item img {
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.list-group-item.item_text {
+    padding: 0;
+}
+
+.box_img {
+    height: 230px;
+}
+
+.box_img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.box_pro {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.box_pro span {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.box_pro a{
+    text-decoration: none;
+    color: #16191c;
+}
+
+.carousel-item img {
+    height: 360px;
+}
+
+.box_alert {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.alert_title {
+    font-size: 18px;
+    font-family: 500;
+}
+
+.btns{
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: none;
+    padding: 5px 10px;
+}
+
+.btns a{
+    text-decoration: none;
+    color: #16191c;
+}
+
+.btns:hover{
+    background: #F2F2F2;
+}
+
+.form-label{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.box_db{
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.box_text_title{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+   
+}
+
+.ct_title{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.box_sp{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.img_avata{
+    width: 300px;
+    border-radius: 5px;
+    height: 160px;
+}
+
+.tb_red{
+    color: red;
+}
+
+.imgs{
+    width: 200px;
+    height: 150px;
+}
+
+.img_list{
+    width: 100px;
+    height: 100px;
+
+    object-fit: cover;
+}
+
+.error{
+    color: red;
+}
+
+
+.box_map{
+    height: 300px;
+    width: 100%;
+}
+
+
+.imgd{
+    width: 100%;
+}
+
+.product-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+
+.text_in{
+    font-size: 24px;
+}
+
+.m{
+    /* background: red; */
+    padding: 5px 20px;
+    margin: 0 2px;
+    border-radius: 20px;
+
+    border: 1px solid #ccc;
+}
+
+.m a{
+    text-decoration: none;
+}
